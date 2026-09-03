@@ -13,6 +13,7 @@ def criar_matiz():
 def mostrando_primeiro_elemento(array):
     return array[2, 1]
 
+
 def main():
     matriz = criar_matiz()
 
